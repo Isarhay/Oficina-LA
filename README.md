@@ -92,7 +92,7 @@
 
 | Camila   | Biblioteconomia | 
 
-| Isabela | Biblioteconomia | 
+| Isabela  | Biblioteconomia | 
 
   
 
